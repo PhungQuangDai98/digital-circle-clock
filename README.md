@@ -1,2 +1,3 @@
-# digital-circle-clock
+# Digital Circle Clock
+
 digital circle clock
